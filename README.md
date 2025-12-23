@@ -2,8 +2,7 @@
 
 ## Origin
 
-This framework emerged from a conversation with Claude (Anthropic) 
-after reading [Kenn Ejima's post on X](https://x.com/i/status/2002908058633248887) about the code-data 
+This framework emerged from a conversation with Claude (Anthropic)  about the code-data 
 boundary problem in computing history and its resurgence in ML/AI.
 
 While discussing prompt injection and AI security, I realized that 
